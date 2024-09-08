@@ -1,3 +1,8 @@
+<script
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+  type="text/javascript">
+</script>
+
 ### Описание проекта: Классификация писем на спам с помощью наивного байесовского классификатора
 
 Проект: Реализация модели классификации писем на спам с использованием наивного байесовского классификатора на данных из Kaggle.
